@@ -1,5 +1,12 @@
 .introh {text-align: center;}
 .introbody {background-color: #C4E1E6;}
-.introh,.introh3 {color: #1B3C53;}
-.introbody, {font-family:sans-serif;}
+.introh.introh3 {color: #1B3C53;}
+.introbody {font-family:sans-serif};
 .introli, .introp{color: #456882;}
+
+
+
+#placesBody {background-color:aquamarine;}
+.head1 {text-align:center;}
+
+
