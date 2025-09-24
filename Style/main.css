@@ -1,5 +1,46 @@
 .introh {text-align: center;}
 .introbody {background-color: #C4E1E6;}
 .introh,.introh3 {color: #1B3C53;}
-.introbody, {font-family:sans-serif;}
+.introbody {font-family:sans-serif;}
 .introli, .introp{color: #456882;}
+
+
+.activities-body{
+font-family: sans-serif;
+background-color: #bee8dc;
+}
+
+.activities-h1{
+text-align: center;
+font-weight: bolder;
+color: #25473e;
+}
+
+.activties-h2 {
+font-weight: bold;
+font-size: larger;
+text-align: center;
+color: #346155;
+}
+
+.activities-p {
+font-size: small;
+color: #488272;
+}
+
+.activities-h2 {
+padding-top: 5%;
+}
+
+.actvities-flex {
+display: flex;
+min-height: fit-content;
+flex-direction: column;
+justify-content: space-between;
+background-color: #488272;
+}
+
+.activities-footer {
+font-size: smaller;
+color: #25473e;
+}
